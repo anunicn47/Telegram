@@ -651,7 +651,7 @@ def get_settings(update: Update, context: CallbackContext):
         text = "Click here to check your settings."
 
 
-@zaid(command='donate')
+@zaid(command='anu')
 def donate(update: Update, _: CallbackContext):
     """#TODO
 
@@ -660,7 +660,7 @@ def donate(update: Update, _: CallbackContext):
         context: CallbackContext -
     """
 
-    update.effective_message.reply_text("can Donate Via \n Razorpay 👉 https://pages.razorpay.com/GODFATHERDONATIONS \n PayPal 👉 https://www.paypal.com/paypalme/mrakki58 for more Contact in @Godfatherakki!  >_<")
+    update.effective_message.reply_text("you can contact me over @anu_pi  >_<")
 
 
 @zaidmsg(Filters.status_update.migrate)
