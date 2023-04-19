@@ -6,6 +6,9 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 load_dotenv()
+
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/anunicn47/Telegram")
+
 class Config(object):
     log = True
     APP_ID = getenv("API_ID", "6435225")
