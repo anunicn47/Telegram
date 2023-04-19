@@ -3,8 +3,8 @@ import asyncio
 import datetime
 
 from telethon.tl import functions, types
-from KuramaRobot.events import register
-from KuramaRobot import ubot, telethn
+from Telegram.events import register
+from Telegram import ubot, telethn
 
 
 async def is_register_admin(chat, user):
