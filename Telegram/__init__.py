@@ -16,7 +16,7 @@ from telethon.sessions import MemorySession
 from config import Config
 from pytgcalls import PyTgCalls
 StartTime = time.time()
-
+from pyrogram import Client
 
 flag = """💖"""
 
@@ -165,6 +165,18 @@ try:
     call_py.start()
 except BaseException:
     print("WARNING ⚠️ ! Have you added a STRING_SESSION in deploying?? Some modules are affect")
+    sys.exit(1)
+
+pyro = Client(
+    ":memory:",
+    API_ID,
+    API_HASH,
+    bot_token=TOKEN,
+)
+try:
+    pyro.start()
+except BaseException:
+    print("WARNING ⚠️ ! Have you added a BOT TOKEN in deploying?? Some modules are affect")
     sys.exit(1)
 
 dispatcher = updater.dispatcher
