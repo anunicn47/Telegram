@@ -652,7 +652,7 @@ def get_settings(update: Update, context: CallbackContext):
 
 
 @zaid(command='anu')
-def donate(update: Update, _: CallbackContext):
+def anu(update: Update, _: CallbackContext):
     """#TODO
 
     Params:
