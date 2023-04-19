@@ -9,7 +9,7 @@ from pyrogram.types import Message
 from pyrogram import filters
 from Telegram import pyro as Client
 
-from config import UPSTREAM_REPO, BOT_USERNAME
+from config import UPSTREAM_REPO
 
 
 def gen_chlog(repo, diff):
