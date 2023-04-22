@@ -46,7 +46,7 @@ python3 -m Telegram # start the bot.
 <p align="center">
     <a href="https://t.me/TheSupportChat"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
 </p>
-<a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<a href="https://t.me/puiisupportchat"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
 #

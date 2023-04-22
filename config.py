@@ -38,7 +38,7 @@ class Config(object):
     BAN_STICKER = getenv("BAN_STICKER", "")
     ALLOW_EXCL = True
     CUSTOM_CMD = False
-    CHANNEL = getenv("CHANNEL", "TheUpdatesChannel")
+    CHANNEL = getenv("CHANNEL", "puiisupportchat")
     SUPPORT = getenv("SUPPORT", "TheSupportChat")
     START_IMG = os.environ.get("START_IMG", "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png")
     CMD_IMG = os.environ.get("CMD_IMG", "https://telegra.ph/file/66518ed54301654f0b126.png")

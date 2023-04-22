@@ -30,7 +30,7 @@
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "puiisupportchat"
         },
         "DATABASE_URL": {
             "description": "Fill database from elephantsql.com",
