@@ -11,8 +11,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/anunicn47/Telegram")
 
 class Config(object):
     log = True
-    APP_ID = getenv("API_ID", "6435225")
-    API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
+    APP_ID = getenv("API_ID", "14005742")
+    API_HASH = getenv("API_HASH", "14b504e0fde7bdaa720d907270dddcaf")
     TOKEN = getenv("TOKEN", "")
     OWNER_ID = getenv("OWNER_ID", "")
     ASSISTANT_ID = getenv("ASSISTANT_ID", "")
