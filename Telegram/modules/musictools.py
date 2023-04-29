@@ -28,7 +28,7 @@ from config import Config
 fotoplay = "https://telegra.ph/file/b6402152be44d90836339.jpg"
 ngantri = "https://telegra.ph/file/b6402152be44d90836339.jpg"
 from Telegram import call_py, telethn as Zaid, client as Client
-owner = "1669178360"
+owner = "6032807619"
 from Telegram.helpers.yt_dlp import bash
 from Telegram.helpers.chattitle import CHAT_TITLE
 from Telegram.helpers.queues import (
